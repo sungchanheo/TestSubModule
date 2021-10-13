@@ -1,0 +1,3 @@
+[submodule "WpfApp3"]
+	path = WpfApp3
+	url = https://github.com/sungchanheo/SubModule2.git
